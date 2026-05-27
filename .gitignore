@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+output.jsonl
+suspicious_events.jsonl
+account_risk_events.jsonl
+file_creation_events.jsonl
+active_ssh_sessions.jsonl
+process_events.jsonl
+ssh_activity_summary.jsonl
+live_events.jsonl
+ai_report.txt
+file_baseline.json
